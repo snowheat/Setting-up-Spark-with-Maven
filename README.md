@@ -19,3 +19,8 @@ Server starts and we can make request thorugh opening chrome browser
 and pasting --> "localhost:4567/hello"
 to address bar
 
+==============================
+https://github.com/kliakos/sparkjava-war-example
+
+https://steveperkins.com/war-files-vs-embedded-servers/
+
