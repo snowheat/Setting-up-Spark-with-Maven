@@ -5,6 +5,10 @@ After cloning the repository you have cd to main my-app directory to execute mav
 Execution below:
 "mvn compile assembly:single"
 
+-- > http://stackoverflow.com/questions/574594/how-can-i-create-an-executable-jar-with-dependencies-using-maven
+mvn clean compile assembly:single
+
+
 After that in target directory new jar file will pop up.
 This jar file contains compiled and builded source code with all dependencies.
 
